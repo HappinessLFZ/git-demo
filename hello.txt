@@ -7,4 +7,4 @@ hello sinobest!
 hello sinobest!
 hello sinobest!    master-update
 hello sinobest!
-hello sinobest!
+hello sinobest! hot-fixtext
