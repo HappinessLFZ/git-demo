@@ -8,3 +8,4 @@ hello sinobest!
 hello sinobest!    master-update
 hello sinobest!
 hello sinobest! hot-fixtext
+hello sinobest!wust
